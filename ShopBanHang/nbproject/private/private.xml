@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/web_java/ShopBanHang/web/footer.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/product_manager.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/checkout.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/content.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/register.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/src/java/controller/UsersServlet.java</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/categories_manager.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/menu.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/content.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/product.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/bill_manager.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/insert_product.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/insert_bill.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/update_bill.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/login.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/update_category.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/src/java/connect/DBConnect.java</file>
+            <file>file:/D:/web_java/ShopBanHang/src/java/dao/UserDAO.java</file>
+            <file>file:/D:/web_java/ShopBanHang/src/java/dao/BillDAO.java</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/header.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/update_product.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/footer.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/single.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/contact.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/insert_category.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/src/java/controller/PayServlet.java</file>
+            <file>file:/D:/web_java/ShopBanHang/web/admin/index.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/banner.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/index.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/header.jsp</file>
+            <file>file:/D:/web_java/ShopBanHang/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,5 @@
+INSERT INTO `user` (`user_id`, `user_name`, `user_email`, `user_phone`, `user_address`, `user_pass`, `user_role`) VALUES (621446244, 'Lee Huyn', 'ginnyproduction@gmail.com', '01233623622', 'Ha Noi', '5718f202e7784384eed7d81f99f223bc', '0');
+INSERT INTO `user` (`user_id`, `user_name`, `user_email`, `user_phone`, `user_address`, `user_pass`, `user_role`) VALUES (625421097, 'Seyoon', 'seoyoon2596@gmail.com', '0246542485', 'Tp.HCM', 'a75786f01e5abdae9531988700c966aa', '0');
+INSERT INTO `user` (`user_id`, `user_name`, `user_email`, `user_phone`, `user_address`, `user_pass`, `user_role`) VALUES (695050742, 'Haiyaku', 'chinkcd@yahoo.com', '01233623622', 'Viet Tri', 'a75786f01e5abdae9531988700c966aa', '0');
+INSERT INTO `user` (`user_id`, `user_name`, `user_email`, `user_phone`, `user_address`, `user_pass`, `user_role`) VALUES (777744499, 'Regain Psy', 'huuchi2596@gmail.com', '01233623622', 'Ha Noi', 'a75786f01e5abdae9531988700c966aa', '0');
+INSERT INTO `user` (`user_id`, `user_name`, `user_email`, `user_phone`, `user_address`, `user_pass`, `user_role`) VALUES (779342796, 'RenKoha', 'namnkcd@gmail.com', '096454206', 'Ha Noi', 'e10adc3949ba59abbe56e057f20f883e', '0');
